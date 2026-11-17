@@ -4,22 +4,22 @@ set_b = {4, 5, 6, 7}
 
 
 def unique_values(items):
-    # a set keeps only one copy of each value
+   
     return set(items)
 
 
 def union_of(a, b):
-    # everything that is in a or b
+   
     return a | b
 
 
 def intersection_of(a, b):
-    # only what is in both a and b
+    
     return a & b
 
 
 def difference_of(a, b):
-    # what is in a but not in b
+  
     return a - b
 
 
