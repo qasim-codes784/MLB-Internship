@@ -1,0 +1,15 @@
+# SAMPLE DATA FOR DEMONSTRATION ONLY - invented students, NOT my Day 1 records.
+# Blank cells are intentional so we can practise finding missing values.
+roll_no,name,course,maths,science,english
+101,Sample Student A,Data Science,85,78,90
+102,Sample Student B,Data Science,45,52,60
+103,Sample Student C,AI,92,88,79
+104,Sample Student D,AI,38,41,55
+105,Sample Student E,Data Science,67,,72
+106,Sample Student F,Computer Vision,74,81,68
+107,Sample Student G,Computer Vision,59,63,
+108,Sample Student H,AI,95,91,97
+109,Sample Student I,Data Science,48,55,50
+110,Sample Student J,AI,70,66,73
+111,Sample Student K,Computer Vision,82,79,85
+112,Sample Student L,Data Science,33,47,42
