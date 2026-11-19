@@ -1,0 +1,13 @@
+Roll_No,Student_Name,Course,Maths,Science,English,Average_Score,Performance
+108,Sample Student H,AI,95,91.0,97.0,94.33,Excellent
+103,Sample Student C,AI,92,88.0,79.0,86.33,Good
+101,Sample Student A,Data Science,85,78.0,90.0,84.33,Good
+111,Sample Student K,Computer Vision,82,79.0,85.0,82.0,Good
+106,Sample Student F,Computer Vision,74,81.0,68.0,74.33,Average
+110,Sample Student J,AI,70,66.0,73.0,69.67,Needs Improvement
+105,Sample Student E,Data Science,67,66.0,72.0,68.33,Needs Improvement
+107,Sample Student G,Computer Vision,59,63.0,72.0,64.67,Needs Improvement
+102,Sample Student B,Data Science,45,52.0,60.0,52.33,Needs Improvement
+109,Sample Student I,Data Science,48,55.0,50.0,51.0,Needs Improvement
+104,Sample Student D,AI,38,41.0,55.0,44.67,Needs Improvement
+112,Sample Student L,Data Science,33,47.0,42.0,40.67,Needs Improvement
