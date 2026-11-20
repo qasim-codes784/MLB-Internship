@@ -55,3 +55,5 @@ A model can memorize its training data. Testing on students it has never seen sh
 _(add link / file here)_
 
 - Day 4: Data preprocessing and Linear Regression (see Day-4 folder)
+
+- Day 4: Data preprocessing and Linear Regression (see Day-4 folder)
