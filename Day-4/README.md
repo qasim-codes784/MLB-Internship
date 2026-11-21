@@ -51,5 +51,4 @@ A model can memorize its training data. Testing on students it has never seen sh
 2. Maths has the largest coefficient (14.6), so it influences the predicted average most. The course adds almost nothing (coefficients between -0.5 and 0.7).
 3. **Limitation:** the test set has only 3 students, so these numbers are not reliable. A different split or a larger dataset could change R² a lot.
 
-## Screen recording
-_(add link / file here)_
+
