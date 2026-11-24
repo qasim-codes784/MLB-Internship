@@ -47,5 +47,3 @@ python dashboard.py            # mini project: prints answers + charts/dashboard
 2. **Data Science students score lowest.** Their mean average is 59.3, versus about 73.7 for both AI and Computer Vision.
 3. **Subjects rise and fall together.** Maths and Science marks are almost perfectly correlated (r ≈ 0.97), and Maths has the widest spread (std ≈ 21), so a student who is weak in one subject tends to be weak in all.
 
-## Screen recording
-_(add link / file here)_
