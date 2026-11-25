@@ -8,3 +8,4 @@ Daily work for my Machine Learning internship.
 - Day 4: Data preprocessing and Linear Regression 
 - Day 5: Model evaluation and classification
 - Day 6: Model evaluation and hyperparameter tuning
+- Day 7: Clustering (K-Means) and PCA 
