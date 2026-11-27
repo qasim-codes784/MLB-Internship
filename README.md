@@ -10,3 +10,4 @@ Daily work for my Machine Learning internship.
 - Day 6: Model evaluation and hyperparameter tuning
 - Day 7: Clustering (K-Means) and PCA 
 - Day 8: Introduction to Deep Learning 
+- Day 9: Convolutional Neural Networks 
